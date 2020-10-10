@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firechat-216f2": {
+      "hosting": {
+        "FrontEnd": [
+          "firechat-216f2"
+        ]
+      }
+    }
+  }
+}
